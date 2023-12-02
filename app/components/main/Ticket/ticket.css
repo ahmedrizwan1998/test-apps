@@ -1,0 +1,18 @@
+.ticketDiv {
+    color: white;
+    padding: 0px 75px;
+}
+
+.Book_Btn {
+    background: linear-gradient(#AD8749, #DCBB75);
+    padding: 13px;
+    text-align: center;
+    border-radius: 16px;
+    font-family: monospace;
+}
+
+.imgDiv {}
+
+.ticketImg {
+    width: 320px;
+}

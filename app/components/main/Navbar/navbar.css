@@ -1,0 +1,57 @@
+.loginBtn {
+    top: 22px;
+    left: 944px;
+    width: 142px;
+    height: 48px;
+    background-color: #DCBB75;
+    /* UI Properties */
+    /* background: transparent 0% 0% no-repeat padding-box; */
+    border-radius: 16px;
+    opacity: 1;
+}
+
+.navbar_main {
+    padding: 25px 35px 0 35px;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+}
+
+.pd_10 {
+    padding: 0 15px;
+}
+
+.sec_main_nav {
+    width: 100%;
+    color: wheat;
+    padding: 0px 45px 0px 40px !important;
+}
+
+.ul_display {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    padding-left: 0 !important;
+}
+
+/* .hero-div-wrap {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-left: 150px;
+    margin-top: -60px;
+    padding-top: 90px;
+} */
+
+.hero-section {
+    color: white;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.Book_Btn {
+    background: linear-gradient(#AD8749, #DCBB75);
+    padding: 13px;
+    text-align: center;
+    border-radius: 16px;
+    font-family: monospace;
+}

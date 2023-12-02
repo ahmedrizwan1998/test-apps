@@ -1,0 +1,18 @@
+.possibilityDiv {
+    padding: 75px;
+}
+
+.top {
+    text-align: center;
+}
+
+.access-ticket-card {
+    background-color: #2d3d07;
+    color: white;
+    text-align: left;
+    border-radius: 20px
+}
+
+.arw-icon {
+    margin-top: 55px;
+}
